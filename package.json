@@ -1,0 +1,15 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "Description of your project",
+  "scripts": {
+    "start": "python app.py"  
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^0.10.0",
+    "python-dotenv": "^0.19.3", 
+    "flask": "^2.0.1"
+  }
+}
