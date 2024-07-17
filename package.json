@@ -9,7 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "openai": "^0.10.0",
-    "python-dotenv": "^0.19.3", 
+    "python-dotenv": "^0.19.3",
     "flask": "^2.0.1"
   }
 }
