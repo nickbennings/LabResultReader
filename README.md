@@ -1,3 +1,5 @@
+https://nickbennings.github.io/LabResultReader/
+
 Lab Results Interpreter
 This web application interprets lab results into plain English using OpenAI's language model. It provides a user-friendly interface to input lab results, send them to the backend for processing, and display the interpreted text.
 
